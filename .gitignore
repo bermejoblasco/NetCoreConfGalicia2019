@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NetCoreConf.Galicia.2019/bin
+/NetCoreConf.Galicia.2019/obj
+/NetCoreConf.Galicia.2019/Properties/PublishProfiles
+/NetCoreConf.Galicia.2019.Response/bin
+/NetCoreConf.Galicia.2019.Response/obj
+/NetCoreConf.Galicia.2019.Response/Properties/PublishProfiles
+/netcoreconfgaliciaconsole/bin/Debug/netcoreapp2.2
+/netcoreconfgaliciaconsole/obj
