@@ -19,7 +19,7 @@ namespace NetCoreConf.Galicia._2019.Response
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseApplicationInsights()
+                //.UseApplicationInsights() //recomendado el uso services.AddApplicationInsightsTelemetry();
                 .UseStartup<Startup>();
     }
 }
